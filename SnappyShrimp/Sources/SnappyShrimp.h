@@ -2,6 +2,8 @@
 //  Licensed under the terms of the MIT License. See LICENSE.md file in project root for terms.
 
 #import <UIKit/UIKit.h>
+@import Logic
+@import Device
 
 //! Project version number for SnappyShrimp.
 FOUNDATION_EXPORT double SnappyShrimpVersionNumber;

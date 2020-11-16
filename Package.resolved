@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ios-snapshot-test-case",
+        "repositoryURL": "https://github.com/skelpo/ios-snapshot-test-case.git",
+        "state": {
+          "branch": "master",
+          "revision": "b93a5fcdfb78e15d52087164dcfc294859403620",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
